@@ -1,0 +1,14 @@
+.jumbo-container {
+	margin-top: 25px;
+}
+.carousel-img {
+	margin: 0 auto;
+}
+#myCarouselLeft {
+	background-image: none;
+	color: black;
+}
+#myCarouselRight {
+	background-image: none;
+	color: black;
+}
